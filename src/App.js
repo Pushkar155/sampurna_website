@@ -1,19 +1,21 @@
-import Home from './components/home/Home';
-import Choose from './components/home/Choose';
-import About from './components/home/About';
-import Products from './components/home/Products';
-import Download from './components/home/Download';
-import Footer from './components/home/Footer';
+import Home from './components/Home';
+import Choose from './components/Choose';
+import About from './components/About';
+import Products from './components/Products';
+import Download from './components/Download';
+import Footer from './components/Footer';
+import Aboutusmain from './components/Aboutusmain';
+import ScrollToTop from "./ScrollToTop";
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
     <>
-    <Home/>
-    <Choose/>
-    <About/>
-    <Products/>
-    <Download/>
-    <Footer/>
+    <ScrollToTop />
+    <Routes>
+      <Route path='/' element={<><Home/><Choose/><About/><Products/><Download/><Footer/></>} />
+      <Route path='/aboutus' element={<><Aboutusmain/><Footer/></>} />
+    </Routes>
     </>
   );
 }

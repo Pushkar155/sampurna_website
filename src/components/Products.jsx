@@ -1,7 +1,7 @@
 import React from "react";
-import plywood from "../../assets/Rectangle 6879.png";
-import nut from "../../assets/Rectangle 6871.png";
-import mica from "../../assets/Rectangle 6880.png";
+import plywood from "../assets/Rectangle 6879.png";
+import nut from "../assets/Rectangle 6871.png";
+import mica from "../assets/Rectangle 6880.png";
 
 const data=[
     {img:plywood,title:"Plywood And Doors",bgcolor:"bg-yellow-700"},
