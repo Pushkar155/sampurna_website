@@ -1,6 +1,6 @@
 import React from 'react'
 import FileDownloadRoundedIcon from '@mui/icons-material/FileDownloadRounded';
-import men from "../../assets/Rectangle 2.png";
+import men from "../assets/Rectangle 2.png";
 
 const Download = () => {
   return (

@@ -9,7 +9,9 @@ module.exports = {
         footerbg: "rgba(7, 73, 113, 1)",
       },
       height:{
-        customheight:"80vh"
+        customheight:"80vh",
+        61:"60vh",
+        62:"50vh",
       }
     },
     

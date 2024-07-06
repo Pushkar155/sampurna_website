@@ -1,7 +1,7 @@
 import React from 'react'
-import bus from "../../assets/Vector.png";
-import tool from "../../assets/bi_tools.png";
-import rupee from "../../assets/mdi_rupee.png";
+import bus from "../assets/Vector.png";
+import tool from "../assets/bi_tools.png";
+import rupee from "../assets/mdi_rupee.png";
 
 const choose = [
     {img:bus,title:"Best Delivery services",text:"Fast, reliable delivery service ensuring your hardware products arrive on time, every time, right to your doorstep."},
