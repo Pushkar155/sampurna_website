@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%E2%80%9Chttp://www.sampurn.store/static/css/main.58fca0b5.css",
+    "main.js": "/%E2%80%9Chttp://www.sampurn.store/static/js/main.0ab40e75.js",
+    "static/media/image 14.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/image 14.7e77c323f2c28d6a9a8f.png",
+    "static/media/Rectangle 6871.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6871.0d3b5840df7ed1d8add3.png",
+    "static/media/Rectangle 6879.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6879.ac66e70a6658b11c8d1d.png",
+    "static/media/Rectangle 6880.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6880.ffb03bfd11b43842cc15.png",
+    "static/media/image 14 (1).png": "/%E2%80%9Chttp://www.sampurn.store/static/media/image 14 (1).753c5708e6dcbac485c9.png",
+    "static/media/Rectangle 6925.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6925.ac20dd0102173eb0f4b4.png",
+    "static/media/1204247289.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/1204247289.75f996adae1caef1e9b4.png",
+    "static/media/Rectangle 2.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 2.77324ef4fa124ec3a250.png",
+    "static/media/1204247290.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/1204247290.f5bea84c48bbabe8c644.png",
+    "static/media/Rectangle 6924.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6924.006e502cc556f7c43ba0.png",
+    "static/media/Rectangle 6930.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6930.f6278ce5f4b330654c12.png",
+    "static/media/Rectangle 6928.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6928.5ae929250fb39e4b4c12.png",
+    "static/media/Rectangle 6929.png": "/%E2%80%9Chttp://www.sampurn.store/static/media/Rectangle 6929.a913e47718b8d32b2555.png",
+    "index.html": "/%E2%80%9Chttp://www.sampurn.store/index.html",
+    "main.58fca0b5.css.map": "/%E2%80%9Chttp://www.sampurn.store/static/css/main.58fca0b5.css.map",
+    "main.0ab40e75.js.map": "/%E2%80%9Chttp://www.sampurn.store/static/js/main.0ab40e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58fca0b5.css",
+    "static/js/main.0ab40e75.js"
+  ]
+}
